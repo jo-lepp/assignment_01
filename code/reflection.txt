@@ -1,4 +1,6 @@
 Write your reflection here.
 
+This assignment was a piece of cake, and I'm not worried about the skills here. I'm submitting a poor reflection following the instructions of the assignment.
+
 See reflection.md for what makes a good reflection — be specific, use the
 terminology from class, and make it actionable.
