@@ -1,6 +1,8 @@
 Write your reflection here.
 
-This assignment was a piece of cake, and I'm not worried about the skills here. I'm submitting a poor reflection following the instructions of the assignment.
+While I'm able to run the terminal code to commit my changes to GitHub, I'm not quite sure what (git add . ) does or why it's different from (git commit). However, it's really handy and I'm getting the hang of it. 
+The tester is a really cool tool as well, and I'd like to learn how to make my own tests. Throughout this assignment I was thinking about how much better that option would be for my work on pipelines outside of class, as it's a long process to run the code I've made and splitting it into chunks to test would be so much easier.
+Other than that, I think I have a really good grasp on python basics, and I'm glad that I remember as much as I do from IST256. I think this will be a good opportunity to add onto that knowledge in really applicable ways!
 
 See reflection.md for what makes a good reflection — be specific, use the
 terminology from class, and make it actionable.
